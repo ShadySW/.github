@@ -5,7 +5,7 @@ Welcome to the Shady Software github page,
 
 ##
 
-##© SHADY SOFTWARE
+## © SHADY SOFTWARE
 <!--
 
 **Here are some ideas to get you started:**
